@@ -1,12 +1,12 @@
 {
-  "price": 103430,
-  "date": "2026-07-06",
-  "change": 270,
-  "changePercent": 0.26,
-  "priceLow": 103410,
-  "priceHigh": 103450,
+  "price": 103390,
+  "date": "2026-07-07",
+  "change": -40,
+  "changePercent": -0.04,
+  "priceLow": 103370,
+  "priceHigh": 103410,
   "source": "长江有色金属网",
   "sourceUrl": "https://www.cjys.net/price",
   "unit": "元/吨",
-  "updatedAt": "2026-07-06T11:21:22.720747+08:00"
+  "updatedAt": "2026-07-07T10:54:29.578506+08:00"
 }
